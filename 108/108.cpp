@@ -1,4 +1,7 @@
 /*
+* Name: Jihwan Oh
+* e-mail: jihwanoh315@gmail.com
+* 
 * 108. Convert Sorted Array to Binary Search Tree
 * https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/?envType=study-plan-v2&envId=top-interview-150
 */
